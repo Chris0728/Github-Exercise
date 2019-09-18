@@ -44,7 +44,6 @@ public class math {
 		return 3;
 	}
 	public static double Division(int num1, int num2) {
-		System.out.println("division rules");
 		return num1/num2;
 	}
 	
