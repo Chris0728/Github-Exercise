@@ -31,7 +31,7 @@ public class math {
 	}
 	
 	public static double Addition(int num1, int num2) {
-		return 1;
+		return (double)(num1 + num2);
 	}
 	public static double Subtraction(int num1, int num2) {
 		return 2;
