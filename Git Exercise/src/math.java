@@ -22,7 +22,6 @@ public class math {
 			System.out.println("The result is " + Division(num1, num2));
 		} else {
 			System.out.println("Sorry! We do not understand your command.");
-			System.out.println("hi");
 			
 			
 			
@@ -35,7 +34,7 @@ public class math {
 	}
 
 	public static double Addition(int num1, int num2) {
-		return 1;
+		return num1 + num2;
 	}
 
 	public static double Subtraction(int num1, int num2) {
