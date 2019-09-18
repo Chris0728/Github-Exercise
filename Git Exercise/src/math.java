@@ -37,7 +37,7 @@ public class math {
 		return 2;
 	}
 	public static double Multiplication(int num1, int num2) {
-		System.out.println("Robin is Awesome");
+		
 		return num1*num2;
 	}
 	public static double Division(int num1, int num2) {
