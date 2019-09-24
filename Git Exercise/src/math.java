@@ -26,22 +26,25 @@ public class math {
 		}
 		else {
 			System.out.println("Sorry! We do not understand your command.");
+			
+			
+			//igat's edit on dami's branch
+			//sdjkfhsdakjlfhsdakjfhaskldjhdfas
 		}
 		sc.close();
 	}
 	
 	public static double Addition(int num1, int num2) {
-		return 1;
+		return num1+num2;
 	}
 	public static double Subtraction(int num1, int num2) {
-		return 2;
+		return num1-num2;
 	}
 	public static double Multiplication(int num1, int num2) {
-		
 		return num1*num2;
 	}
 	public static double Division(int num1, int num2) {
-		return 4;
+		return num1/num2;
 	}
 	
 	}
