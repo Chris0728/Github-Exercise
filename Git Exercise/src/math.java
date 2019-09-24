@@ -28,21 +28,22 @@ public class math {
 			System.out.println("Sorry! We do not understand your command.");
 			
 			
-			//igat's edit on dami's branch
-			//sdjkfhsdakjlfhsdakjfhaskldjhdfas
+			
 		}
 		sc.close();
 	}
 	
 	public static double Addition(int num1, int num2) {
-		return num1+num2;
+
+		return 1;
 	}
 	public static double Subtraction(int num1, int num2) {
-		return num1-num2;
+		return 2;
 	}
 	public static double Multiplication(int num1, int num2) {
-		return num1*num2;
+		return 3;
 	}
+	//done division
 	public static double Division(int num1, int num2) {
 		return num1/num2;
 	}
